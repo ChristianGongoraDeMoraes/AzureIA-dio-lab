@@ -28,3 +28,7 @@ ao finalizar o deploy, linkamos com o cognitivo,
 prompt exemplo do modelo cognitivo :
 
 <img width="588" height="399" alt="image" src="https://github.com/user-attachments/assets/f6e33e51-19c8-4781-a3a2-0d281a58fbc1" />
+
+assim, o modelo cognitivo gera resultados com base no que lhe foi passado, como no exemplo abaixo : 
+
+<img width="949" height="559" alt="image" src="https://github.com/user-attachments/assets/e1543014-ac8e-4ed4-8db9-0ce09ee9f6d4" />
