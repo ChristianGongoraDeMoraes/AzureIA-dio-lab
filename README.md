@@ -1,6 +1,6 @@
 # AzureIA-dio-lab
 
-Neste laboratorio temos foco em usar as ferramentas de IA da openIA,
+Neste laboratorio temos foco em usar as ferramentas de IA na Azure,
 isto é, a primeira ferramenta é o estudio de fala, onde nós podemos usar para tasks como traduzir audios para textos :
 <img width="784" height="262" alt="image" src="https://github.com/user-attachments/assets/7fbfc89b-6395-4a8f-8062-36ae6dac51fa" />
 
